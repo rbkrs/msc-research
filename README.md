@@ -148,12 +148,12 @@ pip install git+https://github.com/facebookresearch/segment-anything-2.git
 
 If you use this research or code, please cite:
 ```bibtex
-@mastersthesis{author2024soundsymbolism,
+@mastersthesis{robinkras2024soundsymbolism,
   title={Cross-Modal Sound Symbolism in Vision-Language Models},
-  author={[Author Name]},
-  year={2024},
-  school={[University Name]},
-  type={Master's Thesis}
+  author={[Robin Kras]},
+  year={2025},
+  school={[Universiteit Leiden]},
+  type={Masters Dissertation}
 }
 ```
 
