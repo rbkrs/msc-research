@@ -163,5 +163,5 @@ This research is made available for academic and educational purposes. Please re
 
 ---
 
-**Contact:** [Your contact information]  
-**Academic Supervisor:** [Supervisor name and institution]
+**Contact:** [robkraseu@gmail.com]  
+**Academic Supervisor:** [Tessa Verhoef, LIACS]
